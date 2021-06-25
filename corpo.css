@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://i.ytimg.com/vi/qmYT4QxR6Zk/maxresdefault.jpg);
+    font-size: 1px;
+    margin: 30px 10px;
+    text-align: center;
+    align-items: center;
+}
+
+footer {
+    background-color: Red;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+button {
+    width: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+input[type=button] {
+    width: 90px;
+    height: 90px;
+    font-size: 60px;
+    background-color: rgb(199, 13, 13);
+    color: rgb(8, 8, 8);
+    border: rgb(60, 52, 173) solid 1px;
+    text-align: center;
+}
+
+input[type=text] {
+    width: calc(26%);
+    height: 60px;
+    background-color: rgb(247, 233, 233);
+
+}
